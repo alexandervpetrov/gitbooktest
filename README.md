@@ -2,7 +2,9 @@
 
 Blah-blah
 
-### Привіт
+Перейти до [привіту](https://alexandervpetrov.gitbook.io/testpub/#ch1).
+
+### Привіт <a id="ch"></a>
 
 длродлрдлр
 
